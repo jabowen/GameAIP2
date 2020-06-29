@@ -3,6 +3,7 @@ import random
 import pickle
 import traceback
 import tkinter
+import math
 
 import p2_pathfinder
 
